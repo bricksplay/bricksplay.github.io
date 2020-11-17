@@ -1,14 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Bricksplay</title>
+    <link>http://bricksplay.eu/tags/</link>
+    <description>Recent content in Tags on Bricksplay</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-at</language>
+    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bricksplay.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode I</title>
+      <link>http://bricksplay.eu/tags/episode-i/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/episode-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode III</title>
+      <link>http://bricksplay.eu/tags/episode-iii/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/episode-iii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode IV</title>
+      <link>http://bricksplay.eu/tags/episode-iv/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/episode-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode V</title>
+      <link>http://bricksplay.eu/tags/episode-v/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/episode-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Force Unleashed</title>
+      <link>http://bricksplay.eu/tags/the-force-unleashed/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/the-force-unleashed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minifigure</title>
+      <link>http://bricksplay.eu/tags/minifigure/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/minifigure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitrine</title>
+      <link>http://bricksplay.eu/tags/vitrine/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/vitrine/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
