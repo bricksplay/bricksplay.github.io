@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Bricksplay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 22:35:06 +0530</lastBuildDate>
     
 	<atom:link href="http://bricksplay.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minifigure</title>
+      <link>http://bricksplay.eu/tags/minifigure/</link>
+      <pubDate>Sat, 11 May 2019 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/minifigure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitrine</title>
+      <link>http://bricksplay.eu/tags/vitrine/</link>
+      <pubDate>Sat, 11 May 2019 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/tags/vitrine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Episode I</title>
@@ -75,20 +93,11 @@
     </item>
     
     <item>
-      <title>Minifigure</title>
-      <link>http://bricksplay.eu/tags/minifigure/</link>
-      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      <title>Beliebiges Set</title>
+      <link>http://bricksplay.eu/tags/beliebiges-set/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
       
-      <guid>http://bricksplay.eu/tags/minifigure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vitrine</title>
-      <link>http://bricksplay.eu/tags/vitrine/</link>
-      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
-      
-      <guid>http://bricksplay.eu/tags/vitrine/</guid>
+      <guid>http://bricksplay.eu/tags/beliebiges-set/</guid>
       <description></description>
     </item>
     

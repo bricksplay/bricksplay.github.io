@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Bricksplay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 22:35:06 +0530</lastBuildDate>
     
 	<atom:link href="http://bricksplay.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minifiguren</title>
+      <link>http://bricksplay.eu/categories/minifiguren/</link>
+      <pubDate>Sat, 11 May 2019 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/minifiguren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitrine</title>
+      <link>http://bricksplay.eu/categories/vitrine/</link>
+      <pubDate>Sat, 11 May 2019 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/vitrine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Episode I</title>
@@ -75,11 +93,56 @@
     </item>
     
     <item>
-      <title>Minifiguren</title>
-      <link>http://bricksplay.eu/categories/minifiguren/</link>
-      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      <title>Clone Wars</title>
+      <link>http://bricksplay.eu/categories/clone-wars/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
       
-      <guid>http://bricksplay.eu/categories/minifiguren/</guid>
+      <guid>http://bricksplay.eu/categories/clone-wars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode II</title>
+      <link>http://bricksplay.eu/categories/episode-ii/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/episode-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode IX</title>
+      <link>http://bricksplay.eu/categories/episode-ix/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/episode-ix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode VII</title>
+      <link>http://bricksplay.eu/categories/episode-vii/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/episode-vii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode VIII</title>
+      <link>http://bricksplay.eu/categories/episode-viii/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/episode-viii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rouge One</title>
+      <link>http://bricksplay.eu/categories/rouge-one/</link>
+      <pubDate>Tue, 11 May 2010 22:35:06 +0530</pubDate>
+      
+      <guid>http://bricksplay.eu/categories/rouge-one/</guid>
       <description></description>
     </item>
     
